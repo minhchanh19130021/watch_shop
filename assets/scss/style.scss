@@ -63,7 +63,11 @@ header {
     color: #fff !important;
     background-color: #333 !important;
   }
-
+  &-search{
+    &:hover{
+      background-color: #c89979 !important;
+    }
+  }
   &-user {
     background-color: transparent;
     color: #fff !important;
